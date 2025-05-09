@@ -1,6 +1,5 @@
 package br.com.dio.desafio.dominio;
 
-import java.text.DateFormat;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
